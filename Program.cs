@@ -11,7 +11,7 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Hello world22!");
+            Console.WriteLine("Hello world2!");
         }
     }
 }
